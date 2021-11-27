@@ -83,6 +83,6 @@ if (opcao == 1):
   Palavra()
 elif (opcao == 2):
   quina()
-elif (opcao == 9)
+elif (opcao == 9):
   print("Finalizando programa...")
   
